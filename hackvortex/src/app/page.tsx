@@ -6,6 +6,6 @@ export default function Home() {
       <>
         <NavBar></NavBar>
         <HelloWorld></HelloWorld>
-      </>   
-  );
+      </>   
+  );
 }

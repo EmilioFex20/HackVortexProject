@@ -5,7 +5,7 @@ import Lenis from "@studio-freight/lenis";
 import gsap from "gsap";
 import ScrollTrigger from "gsap/ScrollTrigger";
 
-function ScrollPanels() {
+function SeaLifeScrollPanels() {
 
     gsap.registerPlugin(ScrollTrigger);
 
@@ -94,84 +94,84 @@ function ScrollPanels() {
           <div className="column-wrap relative flex flex-col pt-[5vh] px-0 pb-[15vh] z-1">
             <div className="column relative block">
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (1).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (1).jpg (1).jpg" alt="Panel Image" />
               </div>
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (2).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (2).jpg" alt="Panel Image" />
               </div>
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (3).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (3).jpg" alt="Panel Image" />
               </div>
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (4).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (4).jpg" alt="Panel Image" />
               </div>
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (5).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (5).jpg" alt="Panel Image" />
               </div>
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (6).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (6).jpg" alt="Panel Image" />
               </div>
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (7).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (7).jpg" alt="Panel Image" />
               </div>
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (8).jpg" alt="Panel Image" />
-              </div>
-            </div>
-          </div>
-          <div className="column-wrap relative flex flex-col pt-[5vh] px-0 pb-[15vh] z-1">
-            <div className="column relative block">
-              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (9).jpg" alt="Panel Image" />
-              </div>
-              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (10).jpg" alt="Panel Image" />
-              </div>
-              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (11).jpg" alt="Panel Image" />
-              </div>
-              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (12).jpg" alt="Panel Image" />
-              </div>
-              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (13).jpg" alt="Panel Image" />
-              </div>
-              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (14).jpg" alt="Panel Image" />
-              </div>
-              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (15).jpg" alt="Panel Image" />
-              </div>
-              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (16).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (8).jpg" alt="Panel Image" />
               </div>
             </div>
           </div>
           <div className="column-wrap relative flex flex-col pt-[5vh] px-0 pb-[15vh] z-1">
             <div className="column relative block">
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (17).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (9).jpg" alt="Panel Image" />
               </div>
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (18).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (10).jpg" alt="Panel Image" />
               </div>
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (19).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (11).jpg" alt="Panel Image" />
               </div>
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (20).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (12).jpg" alt="Panel Image" />
               </div>
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (21).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (13).jpg" alt="Panel Image" />
               </div>
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (22).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (14).jpg" alt="Panel Image" />
               </div>
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (23).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (15).jpg" alt="Panel Image" />
               </div>
               <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
-                <img className="col-img" src="/images/SLImage (24).jpg" alt="Panel Image" />
+                <img className="col-img" src="/SLImages/SLImage (16).jpg" alt="Panel Image" />
+              </div>
+            </div>
+          </div>
+          <div className="column-wrap relative flex flex-col pt-[5vh] px-0 pb-[15vh] z-1">
+            <div className="column relative block">
+              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
+                <img className="col-img" src="/SLImages/SLImage (17).jpg" alt="Panel Image" />
+              </div>
+              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
+                <img className="col-img" src="/SLImages/SLImage (18).jpg" alt="Panel Image" />
+              </div>
+              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
+                <img className="col-img" src="/SLImages/SLImage (19).jpg" alt="Panel Image" />
+              </div>
+              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
+                <img className="col-img" src="/SLImages/SLImage (20).jpg" alt="Panel Image" />
+              </div>
+              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
+                <img className="col-img" src="/SLImages/SLImage (21).jpg" alt="Panel Image" />
+              </div>
+              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
+                <img className="col-img" src="/SLImages/SLImage (22).jpg" alt="Panel Image" />
+              </div>
+              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
+                <img className="col-img" src="/SLImages/SLImage (23).jpg" alt="Panel Image" />
+              </div>
+              <div className="col-item w-[25vw] h-[25vw] relative overflow-hidden rounded-[4px] cursor-pointer mt-0 mr-0 mb-[2.5vw] ml-0">
+                <img className="col-img" src="/SLImages/SLImage (24).jpg" alt="Panel Image" />
               </div>
             </div>
           </div>
@@ -182,4 +182,4 @@ function ScrollPanels() {
   );
 }
 
-export default ScrollPanels;
+export default SeaLifeScrollPanels;
