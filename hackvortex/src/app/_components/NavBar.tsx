@@ -62,13 +62,8 @@ export default function NavBar(){
           />
         </Flex>
         <Flex flex={{ base: 2 }} justify={{ base: 'center', md: 'start' }}>
-        <Text
-            textAlign={useBreakpointValue({ base: 'center', md: 'left' })}
-            fontFamily={'heading'}
-            color={useColorModeValue('gray.800', 'white')}>
-            <Image src={"/logo.png"} alt={`image`} width={'40'} height={"40"} />
-          </Text>
-          <Flex display={{ base: 'none', md: 'flex' }} ml={10}>
+            <Image src={"/logo.png"} alt={`image`} width={'100'} height={"40"} />
+          <Flex display={{ base: 'none', md: 'flex' }} ml={20}>
             <DesktopNav />
           </Flex>
         </Flex>
@@ -94,7 +89,8 @@ const DesktopNav = () => {
   const popoverContentBgColor = useColorModeValue('white', 'gray.800')
 
   return (
-    <Stack direction={'row'} spacing={4}>
+    <Flex justify="center" align="center" flex={1}>
+    <Stack direction={'row'} spacing={4} align="center">
       {NAV_ITEMS.map((navItem) => (
         <Box key={navItem.label}>
           <Popover trigger={'hover'} placement={'bottom-start'}>
@@ -133,6 +129,7 @@ const DesktopNav = () => {
         </Box>
       ))}
     </Stack>
+    </Flex>
   )
 }
 
